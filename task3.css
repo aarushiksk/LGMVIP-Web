@@ -1,0 +1,50 @@
+body{
+  background-image: linear-gradient(to right,rgb(221, 191, 196), rgb(231, 109, 231),rgb(82, 3, 82));
+}
+.table{
+  position:absolute;
+  top:10%;
+}
+#name,#age,#city,#email,#skills{
+  font-size: 15px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  border: 2px solid black;
+  padding:3px;
+}
+#add{
+  padding:4px;
+  background-color: rgb(212, 212, 212);
+}
+#add:hover{
+  background-color: rgb(88, 86, 86);
+}
+.table2{
+  
+  padding:4px;
+  font-size: 25px;
+  position:absolute;
+  top:10%;
+  left:40%;
+  border-collapse: collapse;
+  
+  
+}
+#display,th,td{
+  border:2px solid black;
+
+}
+#display{
+  text-align: center;
+
+}
+#header{
+  background-color: white;
+  font-family: 'Raleway', sans-serif;
+  border: 2px solid black;
+  
+ 
+}
+
+
+
+
